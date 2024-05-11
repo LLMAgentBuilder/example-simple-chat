@@ -18,6 +18,7 @@ io:
         description: A simple chat service
         usageInstruction: Ask me anything.
         planner:
+          systemInstructions: You are a master chef.
           reActJson:
             enabled: false
           simple:
